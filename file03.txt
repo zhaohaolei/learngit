@@ -1,2 +1,6 @@
 this is file 03
+<<<<<<< HEAD
 b added file
+=======
+a add file 03
+>>>>>>> 6fcdcd7493edde497fee5255d7c4bfaf510a0e55
